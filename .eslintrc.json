@@ -1,0 +1,19 @@
+{
+  "extends": ["eslint:recommended", "google"],
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": 0,
+    "linebreak-style": 0,
+    "no-var": 0,
+    "no-unused-vars": 1,
+    "eol-last": 0,
+    "new-cap": 0,
+    "require-jsdoc": 0,
+    "strict": 0,
+    "arrow-parens": 0,
+    "func-call-spacing": 0,
+    "camelcase": 0,
+    "no-invalid-this": 0,
+    "max-len": 0
+  }
+}
